@@ -1,4 +1,4 @@
-#Simple example of Spring Data REST + Swagger usage
+# Simple example of Spring Data REST + Swagger usage
 **Swagger UI URL:** /swagger-ui/ or /swagger-ui/index.html
 
 **H2 console URL:**  /h2-console
